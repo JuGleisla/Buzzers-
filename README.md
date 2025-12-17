@@ -10,7 +10,7 @@
 #define NOTE_G4  392  // Sol 
 #define NOTE_FS4 370  // Fá# 
 #define NOTE_CS4 277  // Dó# 
-#define NOTE_C4  262  // Dó Natural 
+#define NOTE_C4  262  // Dó  
 #define NOTE_D4  294  // Ré 
 #define NOTE_B4  494  // Si 
 #define NOTE_F4 349 // Fá 
